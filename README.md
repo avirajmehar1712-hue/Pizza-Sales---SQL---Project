@@ -7,3 +7,8 @@ This project analyzes a pizza shop's sales data to extract key performance insig
 - **Trends**: Daily and hourly order patterns
 - **Category Analysis**: Sales by pizza category and size
 - **Top/Bottom Products**: Best and worst-selling pizzas
+- 
+## How to Load Data
+You can either:
+1. **Use an `INSERT` SQL script** to populate the database, or  
+2. **Directly import the Excel file** into SQL Server using the Import Wizard or `BULK INSERT` after saving as CSV.
